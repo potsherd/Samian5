@@ -23,10 +23,9 @@ BICS Supplement **102**
 -   Volume 9 (T to Ximus), 2012
 
 Publication and ordering details can be found at
-<http://icls.sas.ac.uk/publications>
-
-The font is also used in the online catalogue of stamps derived from the
-published volumes at <http://www.rgzm.de/samian>
+<http://icls.sas.ac.uk/publications>. The font is also used in the
+online catalogue of stamps derived from the published volumes at
+<http://www.rgzm.de/samian>.
 
 The font contains a range of standard characters (upper- and lower-case, digits
 and punctuation). The special ligatures and symbols for sigillata stamps are in
@@ -38,21 +37,22 @@ Some glyphs in Samian5 are based on [Bitstream
 Vera](http://www.bitstream.com/font_rendering/products/dev_fonts/vera.html)
 and [DejaVu](http://dejavu.sourceforge.net/) fonts. See the included
 LICENSE-dejavu for the original licensing of DejaVu and Vera fonts.
-
-Samian5 was developed using [fontforge](http://fontforge.sourceforge.net/).
+Samian5 was developed using
+[fontforge](http://fontforge.sourceforge.net/).
 
 The latest version of the font can be downloaded from
 <http://sourceforge.net/projects/samian5/>
 
 The font is distributed in two forms:
 
-* **NEW** an installation program for Windows computers 
-* a zip file for manual installation of font on Linux (and other) systems
+* installation program for Windows computers
+* a zip file for manual installation of font
 
-The distribution files contain:
+The zip file contains:
 
     README.txt            : basic information (this file)
-    Samian5-X.YY.ttf      : the Samian5 font in TrueType format (where X.YY is the version number)
+    Samian5-X.YY.ttf      : the Samian5 font in TrueType format
+	                        (where X.YY is the version number)
     Samain5-glyphs.pdf    : a pdf showing the special glyphs in Samian5
     INSTALL.txt           : how to install the font on Windows amd Linux
     HOWTO_use_Samian5.txt : hints on using Samian5 in word processor documents
@@ -62,5 +62,5 @@ The distribution files contain:
 
 P A Tyers
 
-    $Id: README.md,v 1.21 2014/03/06 14:26:56 paul Exp paul $
+    $Id: README.md,v 1.22 2019/02/13 17:24:29 paul Exp paul $
 
