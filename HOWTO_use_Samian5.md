@@ -61,6 +61,6 @@ The characters in the Samian5 font reflect the state of development of the
 Index, and continued to develop up until the publication of Volume 9 in 2012. 
 
 P A Tyers\
-\today
-<!--    $Id: HOWTO_use_Samian5.md,v 1.3 2014/03/06 09:42:17 paul Exp paul $ -->
+$Date: 2019/02/16 09:33:14 $
+<!--    $Id: HOWTO_use_Samian5.md,v 1.4 2019/02/16 09:33:14 paul Exp paul $ -->
 

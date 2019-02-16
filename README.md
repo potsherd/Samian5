@@ -28,7 +28,7 @@ online catalogue of stamps derived from the published volumes at
 
 The font contains a range of standard characters (upper- and lower-case, digits
 and punctuation). The special ligatures and symbols for sigillata stamps are in
-the Unicode Private Use area starting at position 0xF500. This font was 
+the Unicode Private Use area starting at position 0xF500. This font was
 developed from 2008 until the final volume of *Names on terra sigillata* was
 published in June 2012.
 
@@ -45,7 +45,7 @@ operating systems is also available, but installation through the .ttf
 is recommended in most cases.
 
 A brief introduction to the use of Samian5 is included in the
-*Illustrating Samian Ware* guidlines of the Study Group for Roman
+*Illustrating Samian Ware* guidelines of the Study Group for Roman
 Pottery, available on line at
 <http://romanpotterystudy.org/new/wp-content/uploads/2015/05/Illustrating_Samian_Ware.pdf>
 (pp.26-28).
@@ -63,6 +63,6 @@ The distribution includes:
     Glyphlist             : a list of glyphs in the font and their characteristics
     ChangeLog             : a cumulative list of changes and additions to the font
 
-P A Tyers: \today
-<!--  $Id: README.md,v 1.23 2019/02/16 08:46:22 paul Exp paul $ -->
-
+P A Tyers:\
+$Date: 2019/02/16 09:30:53 $
+<!--  $Id: README.md,v 1.24 2019/02/16 09:30:53 paul Exp paul $ -->
