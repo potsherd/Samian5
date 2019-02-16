@@ -52,14 +52,14 @@ Pottery, available on line at
 
 The distribution includes:
 
-    README.txt            : basic information (this file)
+    README.md             : basic information (this file)
     Samian5-X.YY.ttf      : the Samian5 font in TrueType format
 	                        (where X.YY is the version number)
     Samian5-X.XX-X.exe    : installation program for windows systems						
     Samian5.sfd           : fontforge source file
     Samain5-glyphs.pdf    : a pdf showing the special glyphs in Samian5
     INSTALL.txt           : how to install the font on Windows amd Linux
-    HOWTO_use_Samian5.txt : hints on using Samian5 in word processor documents
+    HOWTO_use_Samian5.md  : hints on using Samian5 in word processor documents
     Glyphlist             : a list of glyphs in the font and their characteristics
     ChangeLog             : a cumulative list of changes and additions to the font
 
