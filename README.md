@@ -6,10 +6,9 @@ sigillata stamps in the catalogues published in the *Names on terra
 sigillata* volumes.
 
 Hartley, B. R. and Dickinson, B. M.\
-*Names on terra sigillata.\
-An index of makers' stamps and
+*Names on terra sigillata. An index of makers' stamps and
 signatures on Gallo-Roman terra sigillata (Samian ware)*\
-Institute of Classical Studies, University of London.\
+Institute of Classical Studies, University of London.
 BICS Supplement **102**
 
 -   Volume 1 (A to Axo), 2008
@@ -40,27 +39,30 @@ LICENSE-dejavu for the original licensing of DejaVu and Vera fonts.
 Samian5 was developed using
 [fontforge](http://fontforge.sourceforge.net/).
 
-The latest version of the font can be downloaded from
-<http://sourceforge.net/projects/samian5/>
+The font is distributed as a .ttf (TrueType) file that should be
+installable on most systems.  An installation program for the Windows
+operating systems is also available, but installation through the .ttf
+is recommended in most cases.
 
-The font is distributed in two forms:
+A brief introduction to the use of Samian5 is included in the
+*Illustrating Samian Ware* guidlines of the Study Group for Roman
+Pottery, available on line at
+<http://romanpotterystudy.org/new/wp-content/uploads/2015/05/Illustrating_Samian_Ware.pdf>
+(pp.26-28).
 
-* installation program for Windows computers
-* a zip file for manual installation of font
-
-The zip file contains:
+The distribution includes:
 
     README.txt            : basic information (this file)
     Samian5-X.YY.ttf      : the Samian5 font in TrueType format
 	                        (where X.YY is the version number)
+    Samian5-X.XX-X.exe    : installation program for windows systems						
+    Samian5.sfd           : fontforge source file
     Samain5-glyphs.pdf    : a pdf showing the special glyphs in Samian5
     INSTALL.txt           : how to install the font on Windows amd Linux
     HOWTO_use_Samian5.txt : hints on using Samian5 in word processor documents
     Glyphlist             : a list of glyphs in the font and their characteristics
-                            (under development)
     ChangeLog             : a cumulative list of changes and additions to the font
 
-P A Tyers
-
-    $Id: README.md,v 1.22 2019/02/13 17:24:29 paul Exp paul $
+P A Tyers: \today
+<!--  $Id: README.md,v 1.23 2019/02/16 08:46:22 paul Exp paul $ -->
 
